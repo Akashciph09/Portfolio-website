@@ -160,25 +160,28 @@ const Portfolio = () => {
       url: "https://leetcode.com/u/singh_akash09/",
       stats: "Max Rating: 1604",
       color: "from-orange-400 to-yellow-500",
+      username: "singh_akash09", // added
     },
     {
       name: "Codeforces",
       url: "https://codeforces.com/profile/Akashlnm09",
       stats: "Max Rating: 1257 (Pupil)",
       color: "from-blue-400 to-cyan-500",
+      username: "Akashlnm09", // added
     },
     {
       name: "GeeksforGeeks",
       url: "https://www.geeksforgeeks.org/user/akashsingep8j/e",
       color: "from-green-400 to-emerald-500",
+      username: "akashsingep8j", // added
     },
     {
       name: "Coding Ninjas",
       url: "https://www.naukri.com/code360/profile/akashhsingh",
       color: "from-red-400 to-orange-500",
+      username: "akashhsingh", // added
     },
   ];
-
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white">
       {/* Navigation */}
